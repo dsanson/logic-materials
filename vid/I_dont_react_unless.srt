@@ -1,0 +1,70 @@
+1
+00:00:02,624 --> 00:00:06,187
+Our sentence is 
+'I don't react unless I smile'
+
+2
+00:00:06,187 --> 00:00:09,751
+'I smile' in our scheme abbreviation
+
+3
+00:00:09,751 --> 00:00:13,314
+is P. 'I don't react' is the
+
+4
+00:00:13,314 --> 00:00:16,877
+negation of R, 'I react'. 
+
+5
+00:00:16,877 --> 00:00:20,441
+So we have '¬R unless P'.
+
+6
+00:00:21,500 --> 00:00:25,358
+'unless' is a stylistic variant of 'or'.
+
+7
+00:00:25,358 --> 00:00:29,216
+It means the same thing as 'or'.
+
+8
+00:00:29,216 --> 00:00:33,074
+Now you might not believe this.
+The reading talks about it.
+
+9
+00:00:33,074 --> 00:00:36,931
+It talks about another way
+
+10
+00:00:36,931 --> 00:00:40,789
+of handling 'unless', using a
+conditional and a negation.
+
+11
+00:00:40,789 --> 00:00:44,647
+But if you do that, there's
+
+12
+00:00:44,647 --> 00:00:48,504
+a very good chance that you will
+
+13
+00:00:48,504 --> 00:00:52,362
+get the order of things wrong!
+The simplest and easiest and
+
+14
+00:00:52,362 --> 00:00:56,220
+most surefire way to symbolize
+'unless', 
+
+15
+00:00:56,220 --> 00:01:00,078
+without getting into any trouble,
+or making any mistakes
+
+16
+00:01:00,082 --> 00:01:03,127
+is to symbolize it as 'or', '∨'.
+

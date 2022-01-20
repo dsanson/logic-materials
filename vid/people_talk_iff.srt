@@ -1,0 +1,55 @@
+1
+00:00:03,355 --> 00:00:06,351
+Our sentence is people talk if
+
+2
+00:00:06,351 --> 00:00:09,347
+and only if rumors spread
+
+3
+00:00:09,870 --> 00:00:13,292
+I replace people talk with p and I
+
+4
+00:00:13,292 --> 00:00:16,714
+replace rumors spread with r and I am
+
+5
+00:00:16,714 --> 00:00:20,136
+left with P if and only if r
+
+6
+00:00:20,440 --> 00:00:24,101
+If and only if is are canonical English
+
+7
+00:00:24,101 --> 00:00:27,762
+way of expressing the biconditional the
+Double Arrow
+
+8
+00:00:27,762 --> 00:00:31,423
+and so I'm going to replace this now
+
+9
+00:00:31,423 --> 00:00:35,085
+with the Double Arrow the type in the
+
+10
+00:00:35,085 --> 00:00:38,746
+Double Arrow and type the less-than
+symbol followed
+
+11
+00:00:38,746 --> 00:00:42,407
+by the minus sign followed by the
+greater
+
+12
+00:00:42,407 --> 00:00:46,068
+than symbol and carnap will do that
+
+13
+00:00:46,068 --> 00:00:49,729
+for me as a nice Double Arrow
+

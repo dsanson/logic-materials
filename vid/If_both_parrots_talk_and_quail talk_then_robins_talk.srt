@@ -1,0 +1,267 @@
+1
+00:00:02,445 --> 00:00:05,902
+Our sentence is 'if (both parrots talk
+
+2
+00:00:05,902 --> 00:00:09,359
+and quail talk) then robins talk.
+
+3
+00:00:09,815 --> 00:00:13,534
+I'm going to begin by replacing
+
+4
+00:00:13,534 --> 00:00:17,252
+the simple sentences with the
+corresponding sentence letters
+
+5
+00:00:17,252 --> 00:00:20,971
+from the scheme of abbreviation.
+
+6
+00:00:23,164 --> 00:00:26,059
+I'm also going to delete that final period,
+
+7
+00:00:26,059 --> 00:00:28,953
+so that doesn't end up there,
+
+8
+00:00:28,953 --> 00:00:31,847
+and I don't notice it at the very end.
+
+9
+00:00:32,647 --> 00:00:35,571
+Now I need to replace
+
+10
+00:00:35,571 --> 00:00:38,496
+the logical connectives in English with
+
+11
+00:00:38,496 --> 00:00:41,420
+the corresponding connectives in
+sentential logic.
+
+12
+00:00:41,948 --> 00:00:45,404
+I'm going to start from the inside and
+work my way out.
+
+13
+00:00:45,404 --> 00:00:48,860
+Or as the reading sometimes puts
+it
+
+14
+00:00:48,860 --> 00:00:52,316
+I'm going to start with the least main
+connective,
+
+15
+00:00:52,316 --> 00:00:55,772
+which is 'both...and...', and then work my way
+
+16
+00:00:55,772 --> 00:00:59,228
+out to the main connective, which is
+'if...then...'.
+
+17
+00:01:00,368 --> 00:01:03,040
+The 'Both P and Q': that is
+
+18
+00:01:03,040 --> 00:01:05,713
+a conjunction of P and Q.
+
+19
+00:01:05,713 --> 00:01:08,385
+I'm going to delete the 'both',
+
+20
+00:01:08,602 --> 00:01:12,181
+and I'm going to replace the 'and'
+with the conjunction symbol.
+
+21
+00:01:12,181 --> 00:01:15,760
+And the way to enter the conjunction
+symbol
+
+22
+00:01:15,760 --> 00:01:19,338
+with your keyboard is by typing a forward
+slash,
+
+23
+00:01:19,730 --> 00:01:23,592
+followed by a backslash. 
+
+24
+00:01:23,592 --> 00:01:27,454
+Carnap will redraw that,
+to look nice for you.
+
+25
+00:01:27,829 --> 00:01:31,621
+And now I am going to replace 'if...
+
+26
+00:01:31,621 --> 00:01:35,412
+then...' with the arrow:
+that's a minus sign, '-', 
+
+27
+00:01:35,412 --> 00:01:39,203
+followed by the greater than sign, '>'.
+There are other shortcut keys
+
+28
+00:01:39,203 --> 00:01:42,995
+that Carnap will recognize.
+
+29
+00:01:42,995 --> 00:01:46,786
+The caret symbol, '^', which you can get
+
+30
+00:01:46,786 --> 00:01:50,578
+by typing shift-6 on your keyboard:
+
+31
+00:01:50,578 --> 00:01:54,369
+it will recognize that has a conjunction.
+
+32
+00:01:54,369 --> 00:01:58,160
+but it won't draw it as pretty,
+and it's actually no easier
+
+33
+00:01:58,160 --> 00:02:01,952
+to type that than it is to
+
+34
+00:02:01,952 --> 00:02:05,743
+type the forward slash followed by the
+backlash.
+
+35
+00:02:05,749 --> 00:02:09,529
+Now I'm going to hit 'enter' to verify
+
+36
+00:02:09,529 --> 00:02:13,308
+that I have the right answer.
+Actually, before I do that
+
+37
+00:02:13,308 --> 00:02:17,087
+let me put that period back.
+Suppose I had forgotten
+
+38
+00:02:17,087 --> 00:02:20,866
+(to delete it) and had left the period there.
+
+39
+00:02:20,866 --> 00:02:24,646
+I hit enter, and it says:
+
+40
+00:02:24,646 --> 00:02:28,425
+"Sorry try again. That formula isn't
+grammatical." That error
+
+41
+00:02:28,425 --> 00:02:32,204
+means that Carnap doesn't understand the
+syntax of my sentence,
+
+42
+00:02:32,204 --> 00:02:35,983
+and that's because there's this extra period.
+If my answer was just wrong,
+
+43
+00:02:35,983 --> 00:02:39,763
+I would get a different
+error message.
+
+44
+00:02:39,763 --> 00:02:43,542
+Just to give you an example,
+suppose that I had
+
+45
+00:02:43,542 --> 00:02:47,321
+snuck a negation in there, and I had 
+'(P ∧ Q) → ¬R',
+
+46
+00:02:47,321 --> 00:02:51,101
+and then I hit 'enter'.
+
+47
+00:02:51,101 --> 00:02:54,880
+Carnap says "Not quite! Try again. 
+
+48
+00:02:54,880 --> 00:02:58,659
+So if the error message says 
+"that sentence is not grammatical",
+
+49
+00:02:58,659 --> 00:03:02,438
+that means that you either have a symbol
+
+
+50
+00:03:02,438 --> 00:03:06,218
+that isn't part of our vocabulary,
+like a stray period.
+
+51
+00:03:06,223 --> 00:03:09,652
+Or it means that you might have an extra
+
+52
+00:03:09,652 --> 00:03:13,081
+parentheses or missing parentheses. 
+Or you have done something else,
+
+53
+00:03:13,081 --> 00:03:16,509
+that Carnap cannot parse as a
+sentence. 
+
+54
+00:03:16,509 --> 00:03:19,938
+If it can parse the sentence,
+but your answer is wrong,
+
+55
+00:03:19,938 --> 00:03:23,366
+Carnap will say what it just said:
+
+56
+00:03:23,366 --> 00:03:26,795
+"Not quite! Try again."
+
+57
+00:03:27,281 --> 00:03:30,852
+Now I hit "enter", and it says "Perfect match!"
+cuz that's the right answer.
+
+58
+00:03:30,852 --> 00:03:34,423
+if I was doing this as an actual
+assignment, I would 
+
+59
+00:03:34,423 --> 00:03:37,994
+click "submit", in order to be sure to get
+credit for the problem.
+

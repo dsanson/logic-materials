@@ -1,0 +1,35 @@
+1
+00:00:02,412 --> 00:00:06,189
+Our sentence is 
+'I smile but I don't laugh'
+
+2
+00:00:06,189 --> 00:00:09,966
+'I smile' is P in our scheme
+of abbreviation.
+
+3
+00:00:09,966 --> 00:00:13,743
+ 'I don't laugh' is the negation
+
+4
+00:00:13,743 --> 00:00:17,521
+of 'I laugh', which is Q in our
+
+5
+00:00:17,521 --> 00:00:21,298
+scheme of abbreviation. So:
+'P but not Q'.
+
+6
+00:00:21,298 --> 00:00:25,075
+'But' is a stylistic variant of 'and': 
+
+7
+00:00:25,075 --> 00:00:28,852
+'but' means the same thing as 'and'.
+
+8
+00:00:28,852 --> 00:00:32,629
+So we symbolize 'but' just as a conjunction.
+

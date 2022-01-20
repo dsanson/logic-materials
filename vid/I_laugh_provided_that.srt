@@ -1,0 +1,55 @@
+1
+00:00:02,551 --> 00:00:04,907
+Our sentence is:
+
+2
+00:00:04,907 --> 00:00:07,262
+I laugh provided that I smile.
+
+3
+00:00:07,911 --> 00:00:10,730
+'I laugh' is P.
+
+4
+00:00:10,730 --> 00:00:13,550
+'I smile' is Q. 
+
+5
+00:00:13,550 --> 00:00:16,370
+So we have 'P provided that Q'.
+
+6
+00:00:16,851 --> 00:00:20,594
+'Provided that' is a stylistic
+variant of 'if'.
+
+7
+00:00:20,594 --> 00:00:24,338
+So this means the same thing as 'if'.
+
+8
+00:00:24,338 --> 00:00:28,081
+That means that 'provided that'
+is marking 'I smile'
+
+9
+00:00:28,081 --> 00:00:31,824
+as the antecedent, in just the
+
+10
+00:00:31,824 --> 00:00:35,567
+way that 'if' can mark
+
+11
+00:00:35,567 --> 00:00:39,310
+'I smile' as the antecedent. 
+that
+
+12
+00:00:39,310 --> 00:00:43,053
+So our answer is 'Q → P': 
+
+13
+00:00:43,053 --> 00:00:46,797
+If Q, 'I smile', then P, 'I laugh'.
+

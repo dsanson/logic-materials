@@ -1,0 +1,184 @@
+1
+00:00:02,626 --> 00:00:05,271
+Our sentence is neither do you want
+
+2
+00:00:05,271 --> 00:00:07,915
+to dance nor can you dance
+
+3
+00:00:08,309 --> 00:00:11,508
+This is a neither nor that
+
+4
+00:00:11,508 --> 00:00:14,708
+you wanted to dance is q
+
+5
+00:00:15,241 --> 00:00:18,183
+And you can dance is
+
+6
+00:00:18,183 --> 00:00:21,125
+are so the sentences the
+
+7
+00:00:21,125 --> 00:00:24,067
+same neither Q nor are
+
+8
+00:00:24,336 --> 00:00:28,223
+There are two ways that are equally
+
+9
+00:00:28,223 --> 00:00:32,109
+good to symbolize the neither nor
+statement
+
+10
+00:00:32,109 --> 00:00:35,996
+one way of symbolizing it captures the
+
+11
+00:00:35,996 --> 00:00:39,883
+idea that if neither Q nor are
+
+12
+00:00:39,883 --> 00:00:43,769
+that means both of those claims
+
+13
+00:00:43,769 --> 00:00:47,656
+are not true to say that
+
+14
+00:00:47,656 --> 00:00:51,542
+both of those claims are not
+
+15
+00:00:51,542 --> 00:00:55,429
+true is to say both not
+
+16
+00:00:55,429 --> 00:00:59,316
+q and not hard that is
+
+17
+00:01:02,038 --> 00:01:03,766
+Not Q
+
+18
+00:01:04,897 --> 00:01:08,450
+Are joined together
+
+19
+00:01:10,124 --> 00:01:12,567
+Conjunction
+
+20
+00:01:12,939 --> 00:01:14,918
+That is a correct answer
+
+21
+00:01:15,869 --> 00:01:19,622
+The other way to
+
+22
+00:01:19,622 --> 00:01:23,375
+symbolize neither he nor
+
+23
+00:01:23,375 --> 00:01:27,128
+you neither Q
+
+24
+00:01:27,766 --> 00:01:29,747
+Nor are
+
+25
+00:01:31,190 --> 00:01:34,496
+Is it follows the idea that if neither
+
+26
+00:01:34,496 --> 00:01:37,801
+one is true that means that it's
+
+27
+00:01:37,801 --> 00:01:41,107
+not the case that either one is
+
+28
+00:01:41,902 --> 00:01:45,594
+Then we're sayingNot.
+
+29
+00:01:46,970 --> 00:01:48,987
+Either one not
+
+30
+00:01:48,987 --> 00:01:51,005
+or are
+
+31
+00:01:51,784 --> 00:01:55,201
+I am so in that case we have a negation
+out front
+
+32
+00:01:55,643 --> 00:01:57,756
+Of a disjunction and
+
+33
+00:01:57,756 --> 00:01:59,869
+that is also correct
+
+34
+00:02:00,387 --> 00:02:04,062
+You might notice that sometimes carnap
+will say that one of
+
+35
+00:02:04,062 --> 00:02:07,736
+the answers is correct and other times
+it'll say that it's
+
+36
+00:02:07,736 --> 00:02:11,410
+a perfect match when I create these
+problems and carnap it
+
+37
+00:02:11,410 --> 00:02:15,084
+asked me what answer I think is the
+right answer and
+
+38
+00:02:15,084 --> 00:02:18,758
+it says perfect match when the answer
+that you give is
+
+39
+00:02:18,758 --> 00:02:22,432
+exactly the one that I typed it and it
+says correct
+
+40
+00:02:22,432 --> 00:02:26,106
+when the answer that you give is
+logically equivalent to the
+
+41
+00:02:26,106 --> 00:02:29,781
+one that I typed in in this case both of
+these
+
+42
+00:02:29,781 --> 00:02:33,455
+answers are equally good it just happens
+to be that this
+
+43
+00:02:33,455 --> 00:02:37,129
+is the one that I typed into the answer
+key
+

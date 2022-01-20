@@ -1,0 +1,55 @@
+1
+00:00:05,306 --> 00:00:09,207
+This time or sentence is it rains if
+
+2
+00:00:09,207 --> 00:00:13,108
+it pours again I will replace the
+
+3
+00:00:13,466 --> 00:00:16,575
+Simple sentences with their sentence
+letters
+
+4
+00:00:16,935 --> 00:00:20,438
+And I noticed that this time the
+sentence T
+
+5
+00:00:20,438 --> 00:00:23,942
+is marked as the antecedent that is the
+sentence
+
+6
+00:00:23,942 --> 00:00:27,446
+it pours is marked as the antecedent and
+so
+
+7
+00:00:27,446 --> 00:00:30,949
+I need to come before the arrow it needs
+
+8
+00:00:30,949 --> 00:00:34,453
+to be the F part of the conditional the
+
+9
+00:00:34,453 --> 00:00:37,957
+first part of the conditional and are to
+come
+
+10
+00:00:37,957 --> 00:00:41,460
+after the arrow since it's the
+consequent the
+
+11
+00:00:41,460 --> 00:00:44,964
+part that supposed to follow from the
+antecedent
+
+12
+00:00:46,357 --> 00:00:48,757
+Arrow are
+

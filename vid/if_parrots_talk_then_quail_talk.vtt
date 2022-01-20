@@ -1,0 +1,158 @@
+WEBVTT
+
+00:00:02.627 --> 00:00:06.095
+Let me show you how to complete
+
+00:00:06.095 --> 00:00:09.563
+your first translation exercise in
+Carnap.
+
+00:00:09.945 --> 00:00:13.570
+What we have here is a sentence that we
+need
+
+00:00:13.570 --> 00:00:17.194
+to translate, that's the sentence in
+English, and then it's
+
+00:00:17.194 --> 00:00:20.819
+been repeated again in this box, where we
+can edit.
+
+00:00:21.109 --> 00:00:25.066
+And the sentence is 
+'If parrots talk than quail talk'.
+
+00:00:25.726 --> 00:00:29.095
+'If' is an antecedent marker: 
+
+00:00:29.095 --> 00:00:32.464
+it marks the sentence 'parrots talk'
+
+00:00:32.464 --> 00:00:35.833
+as the antecedent of this conditional. 
+
+00:00:35.833 --> 00:00:39.202
+'Then' is a consequent marker,
+
+00:00:39.202 --> 00:00:42.571
+marking 'quail talk' as the consequent.
+
+00:00:43.225 --> 00:00:47.042
+I'm going to do this step-by-step.
+
+00:00:47.042 --> 00:00:50.859
+First, I replace the simple sentences with
+their sentence letters,
+
+00:00:50.859 --> 00:00:54.675
+following the scheme of abbreviation.
+One thing I'm going
+
+00:00:54.675 --> 00:00:58.492
+to do right now is I'm going to 
+delete that period.
+
+00:00:58.492 --> 00:01:02.309
+If I have that extra period, when 
+
+00:01:02.309 --> 00:01:06.126
+I'm done that will be a stray symbol that
+Carnap
+
+00:01:06.126 --> 00:01:09.943
+doesn't understand, and it'll say that
+things are wrong.
+
+00:01:09.943 --> 00:01:13.760
+So make sure if there's a period at the end
+
+00:01:13.760 --> 00:01:17.576
+of the English sentence to delete that.
+
+00:01:17.576 --> 00:01:21.393
+I need to replace 'if P then Q'
+
+00:01:21.393 --> 00:01:25.210
+with the corresponding symbol in
+sentential logic.
+
+00:01:25.214 --> 00:01:29.003
+And I want the 'if' part, which is P,
+
+00:01:29.003 --> 00:01:32.791
+to come before the arrow,
+and I want the 'then' part,
+
+00:01:32.791 --> 00:01:36.580
+which is Q, to come after the arrow.
+
+00:01:36.580 --> 00:01:40.369
+To type in the arrow, since I don't have an
+
+
+00:01:40.369 --> 00:01:44.157
+arrow that I can type in on my keyboard,
+
+00:01:44.157 --> 00:01:47.946
+I type hit the minus sign, '-',
+followed by the greater than sign, '>'.
+
+00:01:47.946 --> 00:01:51.734
+Carnap automatically
+rewrites that to look like
+
+00:01:51.734 --> 00:01:55.523
+a pretty arrow, not just like a minus
+sign 
+
+00:01:55.523 --> 00:01:59.311
+cobbled together with a greater than sign. 
+I'm now done.
+
+00:01:59.311 --> 00:02:03.100
+If I click submit right now though,
+it is going to complain.
+
+00:02:03.100 --> 00:02:06.888
+First Carnap wants me to check 
+whether my answer is correct.
+
+00:02:06.888 --> 00:02:10.677
+I do that by hitting 'enter'
+or 'return'.
+
+00:02:10.677 --> 00:02:14.465
+When I hit 'enter' (or 'return'),
+it says:
+
+00:02:14.465 --> 00:02:18.254
+"Perfect match!" I then click 'OK', and now
+
+00:02:18.254 --> 00:02:22.042
+the problem turns green with the nice
+check mark,
+
+00:02:22.042 --> 00:02:25.831
+to show me that I've correctly answered
+the problem.
+
+00:02:25.837 --> 00:02:29.792
+I still then have to also click submit
+in order to get credit for the problem.
+
+00:02:29.792 --> 00:02:33.747
+Make sure that you
+
+00:02:33.747 --> 00:02:37.701
+are submitting your work! 
+When you do that you'll notice
+
+00:02:37.701 --> 00:02:41.656
+that the number of the problem turns
+green, 
+
+00:02:41.656 --> 00:02:45.611
+and that your progress bar grows at the top of
+the page.
+

@@ -1,0 +1,55 @@
+WEBVTT
+
+00:00:02.612 --> 00:00:06.355
+Our sentence is: 'Although I don't smile,
+
+00:00:06.355 --> 00:00:10.098
+I do react.' So 'I don't smile' is the
+
+00:00:10.098 --> 00:00:13.840
+negation of 'I smile', which is P.
+
+00:00:13.840 --> 00:00:17.583
+'I react', or 'I do react' is R. 
+
+00:00:17.583 --> 00:00:21.326
+So our sentence is 'Although not P, R'.
+
+00:00:21.326 --> 00:00:25.068
+'Although' is a stylistic variant 
+of 'but' or 'and'.
+
+00:00:25.068 --> 00:00:28.811
+It has this additional feature: 
+
+00:00:28.811 --> 00:00:32.554
+you can put 'although' at the 
+beginning of a conjunction,
+
+00:00:32.554 --> 00:00:36.296
+or in the middle of the conjunction.
+
+00:00:36.296 --> 00:00:40.039
+English doesn't doesn't care!
+
+00:00:40.809 --> 00:00:44.640
+So this sentence is rendered as:
+'¬P ∧ R'.
+
+00:00:44.640 --> 00:00:48.471
+Think about the sentence,
+and what it takes 
+
+00:00:48.471 --> 00:00:52.302
+for it to be true: it has to be true that
+
+00:00:52.302 --> 00:00:56.132
+I don't smile, and it also has to be true
+
+00:00:56.132 --> 00:00:59.963
+that I do react. So, 
+although I don't smile...
+
+00:01:00.166 --> 00:01:02.031
+I do react.
+
