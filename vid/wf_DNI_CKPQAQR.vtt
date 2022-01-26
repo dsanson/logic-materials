@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:04.635 --> 00:00:08.332
+The question asks, suppose you have 
+
+00:00:08.332 --> 00:00:12.029
+"If P and Q, then Q or R" as a premise.
+
+00:00:12.029 --> 00:00:15.726
+What follows from that, 
+
+00:00:15.726 --> 00:00:19.422
+by Double Negation Introduction?
+
+00:00:19.422 --> 00:00:23.119
+First, we need to put those parentheses around
+
+00:00:25.240 --> 00:00:28.187
+the whole thing is, which was
+
+00:00:28.187 --> 00:00:31.133
+written in informal notation.
+
+00:00:32.462 --> 00:00:34.777
+If you like, we can also put
+
+00:00:34.777 --> 00:00:37.092
+parentheses around the "P and Q"
+
+00:00:37.693 --> 00:00:40.659
+and the "Q or R", since, remember,
+
+00:00:40.659 --> 00:00:43.626
+"ands" and "ors" group more 
+tightly than "arrows".
+
+00:00:44.287 --> 00:00:46.816
+And then we double negate
+
+00:00:46.816 --> 00:00:49.345
+that whole thing. So two negations in front.
+
+00:00:50.255 --> 00:00:53.891
+That's the correct answer. 
+You don't need all those parentheses! 
+
+00:00:53.891 --> 00:00:57.526
+You don't need the parentheses around
+the "P and Q" 
+
+00:00:57.693 --> 00:01:01.298
+and the "Q or R", because 
+our convention
+
+00:01:01.298 --> 00:01:04.904
+tells us that inside here,
+
+00:01:04.904 --> 00:01:08.509
+the and and the or group more tightly
+than the arrow. 
+

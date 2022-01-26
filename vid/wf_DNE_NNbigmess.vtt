@@ -1,0 +1,42 @@
+WEBVTT
+
+00:00:04.959 --> 00:00:07.818
+This time we have:
+
+00:00:08.431 --> 00:00:13.741
+'not not (all this other stuff)'
+as a premise.
+
+00:00:14.064 --> 00:00:18.057
+And we are asked, what follows by 
+Double Negation Elimination.
+
+00:00:18.057 --> 00:00:22.049
+Well, those two negations at the front
+
+00:00:22.049 --> 00:00:26.042
+are negating the whole big thing
+inside the parentheses.
+00:00:26.042 --> 00:00:30.034
+What follows by Double
+Negation Elimination is:
+
+00:00:30.034 --> 00:00:34.002
+everything that was inside the
+
+00:00:34.002 --> 00:00:37.970
+parentheses, without that double negation.
+
+00:00:38.838 --> 00:00:42.619
+I've gone ahead and dropped the
+outermost parentheses,
+
+00:00:43.272 --> 00:00:46.469
+because they are not needed.
+
+00:00:46.469 --> 00:00:49.666
+It is also perfectly right
+
+00:00:49.666 --> 00:00:52.863
+like that
+

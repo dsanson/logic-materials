@@ -1,0 +1,55 @@
+WEBVTT
+
+00:00:04.625 --> 00:00:07.773
+This time we are asked: Suppose you have
+
+00:00:08.426 --> 00:00:12.171
+'If P then Q' as a premise,
+
+00:00:12.171 --> 00:00:15.916
+and 'P' as your other premise.
+What follows by Modus Ponens?
+
+00:00:15.916 --> 00:00:19.661
+Modus Ponens is the rule that says that
+
+00:00:19.661 --> 00:00:23.405
+if you have a conditional as one of your
+premises,
+
+00:00:23.405 --> 00:00:27.150
+---here 'if P then Q'--- 
+and you have its antecedent
+
+00:00:27.150 --> 00:00:30.895
+as your other premise, here, 'P',
+then you can
+
+00:00:30.895 --> 00:00:34.640
+infer the consequent, 'Q'. 
+The answer here is 'Q'.
+
+00:00:34.640 --> 00:00:38.385
+An example of this would be if
+
+00:00:38.385 --> 00:00:42.130
+the conditional premise said "if you're
+happy then
+
+00:00:42.130 --> 00:00:45.875
+you clap your hands", and if the other
+
+00:00:45.875 --> 00:00:49.620
+premise, 'P', said "you are happy",
+
+00:00:49.620 --> 00:00:53.364
+well, from those two pieces of information---
+
+00:00:53.364 --> 00:00:57.109
+if you're happy then you clap your hands,
+and you are happy,
+
+
+00:00:57.109 --> 00:01:00.854
+it follows that you do clap your hands, 'Q'.
+

@@ -1,0 +1,60 @@
+WEBVTT
+
+00:00:03.620 --> 00:00:07.234
+The question asks suppose you have 
+
+00:00:07.234 --> 00:00:10.847
+"If P then Q" as a premise, 
+
+00:00:10.847 --> 00:00:14.461
+what follows from that,
+by Double Negation Introduction?
+
+00:00:15.013 --> 00:00:18.322
+Our premise is "P arrow Q"
+
+00:00:20.862 --> 00:00:24.611
+You might think what follows is
+
+00:00:25.612 --> 00:00:27.606
+the double negation of that, '¬¬P→Q'.
+
+00:00:28.636 --> 00:00:31.306
+The mistake here is that the
+
+00:00:31.306 --> 00:00:33.975
+sentence that we just typed,
+'¬¬P→Q',
+
+00:00:35.248 --> 00:00:39.010
+is a sentence in informal notation,
+and strictly speaking,
+
+00:00:39.010 --> 00:00:42.772
+it has parentheses on the
+outside.
+
+00:00:43.938 --> 00:00:47.213
+When you put in those parentheses,
+'(¬¬P→Q)', you can see 
+
+00:00:47.213 --> 00:00:50.488
+that what you really did was 
+double negate the 'P'.
+
+00:00:50.488 --> 00:00:53.762
+You didn't double negate the conditional,
+'if P then Q'.
+
+00:00:55.447 --> 00:00:57.606
+So what we need is
+
+00:00:57.937 --> 00:01:01.215
+parentheses around the 'P arrow Q',
+
+00:01:01.750 --> 00:01:07.374
+with a double negation out
+front, like that. 
+
+
+

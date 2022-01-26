@@ -1,0 +1,32 @@
+WEBVTT
+
+00:00:04.484 --> 00:00:06.743
+The time we're asked: Suppose
+
+00:00:06.743 --> 00:00:09.001
+we have "if P arrow Q"---
+
+00:00:09.778 --> 00:00:13.079
+---sorry "if P arrow Q or R"---
+as our premise,
+
+00:00:13.079 --> 00:00:16.379
+"if P then either Q or R",
+
+00:00:16.379 --> 00:00:19.679
+what follows by Double Negation
+Introduction?
+
+00:00:20.141 --> 00:00:22.240
+So again we need to remember
+
+00:00:22.240 --> 00:00:24.339
+to put those outer parentheses in,
+
+00:00:25.391 --> 00:00:29.973
+and then we just
+double negate our premise,
+
+00:00:31.078 --> 00:00:33.908
+And that is the answer.
+
