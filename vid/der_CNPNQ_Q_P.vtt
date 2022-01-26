@@ -1,0 +1,345 @@
+WEBVTT
+
+00:00:07.186 --> 00:00:10.080
+This time our conclusion is pee there
+
+00:00:10.080 --> 00:00:12.974
+were setting out to show pee
+
+00:00:13.620 --> 00:00:17.294
+Again I indent I first premise is
+
+00:00:17.294 --> 00:00:20.968
+if not P then not cute
+
+00:00:21.557 --> 00:00:23.925
+The second premise is q
+
+00:00:24.801 --> 00:00:27.883
+I need to find a way to get e
+
+00:00:31.751 --> 00:00:35.222
+If I look at line two and line three
+
+00:00:35.222 --> 00:00:38.694
+I noticed that line 2 is a conditional
+
+00:00:38.964 --> 00:00:41.601
+And its consequences not Q
+
+00:00:42.352 --> 00:00:44.772
+And 93 then
+
+00:00:45.404 --> 00:00:49.301
+Is what the consequence is a negation of
+right
+
+00:00:50.420 --> 00:00:54.259
+So you might think
+
+00:00:54.661 --> 00:00:57.960
+I can apply modus tollens lines 2 and
+
+00:00:57.960 --> 00:01:01.260
+3 and it should give me p
+
+00:01:02.552 --> 00:01:05.965
+And you'll notice over here instead of
+an ice
+
+00:01:05.965 --> 00:01:09.379
+plus sign I have an ex if you have
+
+00:01:09.379 --> 00:01:12.793
+her over it you'll get the world's least
+helpful
+
+00:01:12.793 --> 00:01:16.206
+explanation of what's gone wrong
+actually that's not true
+
+00:01:16.206 --> 00:01:19.620
+this is fairly helpful information it's
+just it's just
+
+00:01:19.620 --> 00:01:23.033
+a bit overwhelming in the way that it's
+presented
+
+00:01:25.955 --> 00:01:28.229
+So what went wrong
+
+00:01:28.450 --> 00:01:30.851
+Well modus tollens doesn't
+
+00:01:30.851 --> 00:01:33.251
+work like this
+
+00:01:33.370 --> 00:01:36.458
+Modus tollens doesn't say that if
+
+00:01:36.458 --> 00:01:39.546
+you've got a conditional and
+
+00:01:39.546 --> 00:01:42.633
+the consequent is a negation
+
+00:01:42.764 --> 00:01:45.041
+And your other promise is what
+
+00:01:45.041 --> 00:01:47.318
+the consequences a negation of
+
+00:01:47.390 --> 00:01:51.205
+Then you can infer what the antecedent
+does
+
+00:01:51.205 --> 00:01:55.020
+a negation up that's not Mota Solon
+
+00:01:55.021 --> 00:01:58.320
+Modus tollens says that if you have a
+conditional
+
+00:01:58.320 --> 00:02:01.619
+and then another line you have the
+negation of
+
+00:02:01.619 --> 00:02:04.918
+the consequent in this case the negation
+of
+
+00:02:04.918 --> 00:02:08.218
+not Q then you can apply modus tollens
+
+00:02:08.296 --> 00:02:10.738
+Q is not the
+
+00:02:10.738 --> 00:02:13.179
+negation of not Q
+
+00:02:13.179 --> 00:02:16.156
+Q is the inauguration of not
+
+00:02:16.156 --> 00:02:19.133
+Q or if you like not
+
+00:02:19.133 --> 00:02:22.110
+Q is the negation of Q
+
+00:02:22.652 --> 00:02:25.765
+The negation of a sentence is what you
+
+00:02:25.765 --> 00:02:28.877
+get when you add a negation sign
+
+00:02:28.877 --> 00:02:31.989
+to the front of that sent so
+
+00:02:31.989 --> 00:02:35.102
+the negation of Q is not Q
+
+00:02:35.103 --> 00:02:38.870
+And the negation of not Q is what you
+get when
+
+00:02:38.870 --> 00:02:42.636
+you add a negation sign to the front of
+not cute
+
+00:02:42.636 --> 00:02:46.402
+and they gation of not Q is not not cute
+
+00:02:47.071 --> 00:02:50.999
+If only we had not not Q
+
+00:02:50.999 --> 00:02:54.927
+as a premise then we could
+
+00:02:54.927 --> 00:02:58.856
+apply modus tollens to line two
+
+00:02:58.857 --> 00:03:00.981
+But we don't have not
+
+00:03:00.981 --> 00:03:03.106
+knock you we have q
+
+00:03:04.113 --> 00:03:07.609
+Is there a way for us to
+
+00:03:07.609 --> 00:03:11.105
+get not not Q from Q well
+
+00:03:11.105 --> 00:03:14.601
+yes there is double negation
+introduction gets
+
+00:03:14.601 --> 00:03:18.097
+us not knock you from Q
+
+00:03:19.490 --> 00:03:21.877
+Now online to I
+
+00:03:21.877 --> 00:03:24.264
+have a conditional
+
+00:03:24.265 --> 00:03:27.994
+And the consequent is a conditional is
+
+00:03:27.994 --> 00:03:31.724
+not q and online for I
+
+00:03:31.724 --> 00:03:35.453
+have the negation of that consequent
+
+00:03:35.453 --> 00:03:37.949
+This is what I needed in
+
+00:03:37.949 --> 00:03:40.444
+order to apply modus tollens
+
+00:03:40.445 --> 00:03:43.039
+When I apply modus tollens it's
+
+00:03:43.039 --> 00:03:45.633
+not going to give me pee
+
+00:03:45.633 --> 00:03:48.970
+It's going to give me the negation of
+
+00:03:48.970 --> 00:03:52.307
+its antecedent the negation of that
+antecedent is
+
+00:03:52.307 --> 00:03:55.645
+that antecedent but with an extra not
+
+00:03:55.645 --> 00:03:58.982
+sign added to the front so it's
+
+00:03:58.982 --> 00:04:02.319
+going to give me not not pee
+
+00:04:02.323 --> 00:04:04.477
+By modus tollens from
+
+00:04:04.477 --> 00:04:06.630
+2 and 4
+
+00:04:07.311 --> 00:04:10.172
+Okay so now I have not not
+
+00:04:10.172 --> 00:04:13.034
+pee but I need pee pee
+
+00:04:13.034 --> 00:04:15.895
+is what I'm trying to show
+
+00:04:16.077 --> 00:04:19.942
+You might think well peeing not not pee
+
+00:04:19.942 --> 00:04:23.808
+or logically equivalent so I'm done
+director vacation
+
+00:04:23.808 --> 00:04:27.673
+line five that's wrong and you'll get an
+
+00:04:27.673 --> 00:04:31.539
+A sign up there indicating that it's
+wrong
+
+00:04:31.767 --> 00:04:35.170
+In order to complete this derivation I
+
+00:04:35.170 --> 00:04:38.573
+need to derive the very same sentence
+
+00:04:38.573 --> 00:04:41.975
+as the sentence that's on my
+
+00:04:40.675 --> 00:04:44.451
+The sentence that's on my show line it's
+not enough
+
+00:04:44.451 --> 00:04:48.226
+to drive a sentence that is logically
+equivalent to that
+
+00:04:48.909 --> 00:04:51.868
+I need to drive exactly that sentence
+
+00:04:51.868 --> 00:04:54.826
+I need P it's not enough for
+
+00:04:54.826 --> 00:04:57.784
+me to have not not pee
+
+00:04:59.484 --> 00:05:03.254
+Is there a way for me to get
+
+00:05:03.254 --> 00:05:07.024
+P from not not P will yes there
+
+00:05:07.024 --> 00:05:10.793
+is I can get P from not not
+
+00:05:10.793 --> 00:05:14.563
+pee by double negation elimination
+online 5
+
+00:05:15.723 --> 00:05:19.710
+Now I have online six exactly the
+sentence that
+
+00:05:19.710 --> 00:05:23.697
+is on my show line online one I
+
+00:05:23.697 --> 00:05:27.684
+have proven what I set out to show
+
+00:05:28.014 --> 00:05:30.831
+So I can now enter my kiwi
+
+00:05:30.831 --> 00:05:33.649
+D line and it is correct
+
+00:05:35.664 --> 00:05:38.741
+In this chapter the
+
+00:05:38.741 --> 00:05:41.818
+trickiest trick there is
+
+00:05:42.104 --> 00:05:45.803
+Is the trick of using double negation
+
+00:05:45.803 --> 00:05:49.502
+introduction and double negation
+elimination as needed
+
+00:05:49.502 --> 00:05:53.202
+in order to massage the premises you
+
+00:05:53.202 --> 00:05:56.901
+have into the right form to then
+
+00:05:56.901 --> 00:06:00.601
+apply modus tollens do another premise
+that
+
+00:06:00.601 --> 00:06:04.300
+you have or to massage what
+
+00:06:04.300 --> 00:06:08.000
+modus tollens spits out into the
+
+00:06:08.000 --> 00:06:11.699
+form that you need to complete
+
+00:06:11.699 --> 00:06:15.398
+your derivation this is the biggest
+
+00:06:15.398 --> 00:06:19.098
+trick the hardest thing in this
+
