@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:00.660 --> 00:00:07.580
+Our conclusion is BOTH NOT G(c) AND G(d). 
+00:00:07.600 --> 00:00:17.590
+I find it it's easier to think about if I make it a bit more concrete:
+
+00:00:17.600 --> 00:00:27.590
+So our conclusion is: CARL IS NOT GREEN AND DEONTAY IS NOT GREEN.
+
+00:00:27.600 --> 00:00:37.590
+Our premise is EVERYTHING IS NOT GREEN:
+
+00:00:37.600 --> 00:00:47.590
+'FOR ALL y, y IS NOT GREEN'. From that premise,
+
+00:00:47.600 --> 00:00:57.590
+we can INSTANTIATE, since it says EVERYTHING IS NOT GREEN we can infer that ALEX IS NOT GREEN;
+
+00:00:57.600 --> 00:01:07.590
+we can infer that BERNICE IS NOT GREEN and so on.
+
+00:01:07.600 --> 00:01:17.260
+But if we just keeps inferring random instances, then we're not going to make good progress.
+
+00:01:17.710 --> 00:01:21.730
+Our conclusion is about CARL and DEONTE.
+
+00:01:21.860 --> 00:01:24.830
+So instead of inferring ALICE IS NOT GREEN,
+
+00:01:24.870 --> 00:01:34.860
+let's infer CARLE IS NOT GREEN, and that DEONTAE IS NOT GREEN.
+
+00:01:34.870 --> 00:01:44.860
+Given those to facts, we can join them together, to get:
+
+00:01:44.870 --> 00:01:51.500
+CARL IS NOT GREEN AND DEONTAY IS NOT GREEN, which is our conclusion.
+
