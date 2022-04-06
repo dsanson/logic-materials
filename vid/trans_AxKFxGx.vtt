@@ -1,0 +1,57 @@
+WEBVTT
+
+00:00:00.090 --> 00:00:10.080
+As always, to translate into canonical English we work from the outside in.
+
+00:00:10.090 --> 00:00:10.920
+So first,
+
+00:00:10.970 --> 00:00:14.640
+I replace the quantifier phrase with
+
+00:00:14.660 --> 00:00:28.430
+its canonical English, "Every x is such that (F(x) and G(x))."
+
+00:00:28.540 --> 00:00:38.320
+Next I'm going to replace what's inside the parentheses. I replace the main connective, which is the conjunction
+
+00:00:38.350 --> 00:00:43.300
+with its canonical English, so...
+
+00:00:43.380 --> 00:00:53.370
+I replace this with "(both F(x) and G(x))". Continuing the process,
+
+00:00:53.380 --> 00:00:59.690
+I replace the predicates with their canonical English,
+
+00:00:59.760 --> 00:01:06.880
+"x a fox" and "x is a goose".
+
+00:01:07.220 --> 00:01:14.050
+Finally, I want to consider whether I can replace my "x"s 
+
+00:01:14.150 --> 00:01:20.800
+with pronouns without introducing ambiguity.
+
+00:01:20.840 --> 00:01:23.360
+In this case, I can. What I get is:
+
+00:01:24.550 --> 00:01:39.890
+"Everything is such that both it is a fox and it is a goose".
+
+00:01:39.900 --> 00:01:41.760
+If you think about what that means,
+
+00:01:41.860 --> 00:01:47.590
+we can keep going and we try to say that in yet more idiomatic English:
+
+00:01:48.380 --> 00:01:53.260
+"Everything is both a fox and a goose",
+
+00:01:53.400 --> 00:01:59.680
+Or, "Everything is a fox and goose".
+
+00:02:00.470 --> 00:02:09.630
+That doesn't seem like something that's likely to be true,
+but that's what that symbolic sentence says when translated into canonical English.
+

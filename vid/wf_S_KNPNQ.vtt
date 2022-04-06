@@ -1,0 +1,17 @@
+WEBVTT
+
+00:00:00.030 --> 00:00:02.530
+
+
+00:00:02.550 --> 00:00:12.540
+The question asks, what is something that follows by simplification from "not P and not Q".
+
+00:00:12.550 --> 00:00:22.540
+Simplification is the simplest of all possible rules: it just says that if you have an AND statement,
+a conjunction, you're allowed to infer either conjunct.
+
+00:00:22.550 --> 00:00:32.540
+So, you're allowed to infer not P by itself, so that's a correct answer. And you are also allowed to infer not Q by itself.
+
+00:00:32.550 --> 00:00:35.090
+So that's also correct.

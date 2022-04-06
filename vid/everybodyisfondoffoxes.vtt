@@ -1,0 +1,60 @@
+WEBVTT
+
+00:00:00.020 -->  00:00:01.710
+'Everybody is fond of of foxes'
+
+00:00:03.830 --> 00:00:06.390
+Again this is a restricted generalization.
+
+00:00:06.440 --> 00:00:11.220
+This time it's a restricted universal generalization
+
+00:00:11.710 --> 00:00:12.700
+'Everybody'
+
+00:00:12.870 --> 00:00:14.890
+just means 'every person',
+
+00:00:16.080 --> 00:00:18.920
+'Every person is fond of foxes'
+
+00:00:21.960 --> 00:00:23.320
+The way we deal with
+
+00:00:23.840 --> 00:00:28.440
+Restricted universal generalizations
+
+00:00:30.340 --> 00:00:33.400
+Is by surrounding a conditional
+
+00:00:35.550 --> 00:00:42.440
+with a universal generalization, so 
+
+00:00:43.110 --> 00:00:44.320
+'Everything is such that (if it's a person
+
+00:00:44.990 --> 00:00:47.110
+then it is fond of foxes)
+
+00:00:49.070 --> 00:00:51.620
+'It is a person' is 'H(x)'
+
+00:00:51.760 --> 00:00:56.860
+'It's fond of foxes' is 'F(x)'
+
+00:00:57.470 --> 00:01:00.090
+'If...then...' is the conditional.
+
+00:01:01.140 --> 00:01:04.350
+And this is our universal quantifier,
+
+00:01:05.190 --> 00:01:06.730
+'For every x (
+
+00:01:07.250 --> 00:01:09.500
+if x is a person,
+
+
+00:01:09.560 --> 00:01:12.330
+then x is fond of foxes)'
+

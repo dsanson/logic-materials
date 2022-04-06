@@ -1,0 +1,55 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.110
+"All cows moo."
+
+00:00:01.650 --> 00:00:04.960
+This is a restricted universal generalization.
+
+00:00:05.790 --> 00:00:06.380
+
+00:00:06.690 --> 00:00:07.520
+
+00:00:07.960 --> 00:00:11.280
+The way we capture restricted universal generalizations
+
+00:00:11.650 --> 00:00:13.780
+is by paraphrasing them
+
+00:00:14.150 --> 00:00:16.060
+in terms of a conditional:
+
+00:00:17.050 --> 00:00:18.470
+'All cows moo'
+
+00:00:18.930 --> 00:00:21.660
+is the same as 
+
+00:00:22.130 --> 00:00:27.100
+'everything is such that if it is a cow then it moos'
+
+00:00:28.730 --> 00:00:34.920
+'cow' is H(x)'
+
+00:00:34.950 -->  00:00:38.800
+to moo is 'M(x)'.
+
+00:00:39.530 --> 00:00:40.180
+So:
+
+00:00:40.750 -->  00:00:44.470
+'If it is H then it is M'
+
+00:00:44.940 --> 00:00:46.550
+And that's true of everything,
+
+00:00:47.190 --> 00:00:53.950
+so 'for all x, if x is H then x is M'
+
+00:00:54.410 --> 00:00:55.640
+For all x,
+
+00:00:55.750 --> 00:00:59.280
+if x is a cow, then x moos.
+
+

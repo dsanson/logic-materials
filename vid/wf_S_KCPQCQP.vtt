@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.060 --> 00:00:01.190
+
+
+00:00:01.230 --> 00:00:11.220
+The question asks what follows by simplification from this conjunction. The main connective is the AND
+00:00:11.230 --> 00:00:21.220
+in the middle, and simplification tells us that when we have a conjunction, we are welcome to infer
+
+00:00:21.230 --> 00:00:31.220
+either conjunct, so one correct answer is "IF P THEN Q". Another equally correct answer
+
+00:00:31.230 --> 00:00:41.220
+is "IF Q THEN P". Both of those follow from the conjunction, 
+
+00:00:41.230 --> 00:00:44.750
+"BOTH IF P THEN Q AND IF Q THEN P"
+

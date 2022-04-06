@@ -1,0 +1,86 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.570
+"All and only cows moo":
+
+00:00:04.030 --> 00:00:06.290
+There are two ways to handle this.
+
+00:00:07.160 --> 00:00:09.250
+We could treat it as:
+
+
+00:00:09.700 --> 00:00:15.320
+"All cows moo and only cows moo".
+
+00:00:16.650 --> 00:00:19.840
+If we do that, then we have
+
+00:00:19.880 --> 00:00:24.340
+a conjunction of two restricted universal generalizations:
+
+00:00:25.150 --> 00:00:27.830
+For all x (if it's a cow then it moves)
+
+00:00:28.210 --> 00:00:28.950
+and
+
+00:00:29.340 --> 00:00:32.190
+For all x (if it moves then it's a cow).
+
+00:00:33.090 --> 00:00:35.880
+So two restricted Universal generalizations,
+
+00:00:37.310 --> 00:00:43.140
+with conditionals inside, and it'll be the same conditional but going in opposite directions.
+
+00:00:44.470 --> 00:00:49.620
+But a more efficient way to symbolize this
+
+00:00:50.390 --> 00:00:54.910
+is as the universal generalization of the biconditional,
+
+00:00:55.340 --> 00:00:56.140
+
+00:00:56.670 --> 00:00:57.270
+
+00:00:57.310 --> 00:00:57.930
+
+00:00:57.980 --> 00:01:00.470
+Everything is such that
+
+00:01:03.630 --> 00:01:05.750
+it is a cow
+
+00:01:06.680 --> 00:01:08.380
+if and only if it moos.
+
+00:01:09.090 --> 00:01:10.420
+Remember, the 'iff' isn't a typo;
+
+00:01:11.010 --> 00:01:18.050
+It's shorthand for the biconditional
+
+00:01:19.190 --> 00:01:19.880
+
+00:01:20.310 --> 00:01:21.750
+So that's the Double Arrow
+
+00:01:22.360 --> 00:01:25.090
+To be a cow is 'H(x)'
+
+00:01:27.110 --> 00:01:31.200
+To moo is 'M(x)
+
+00:01:31.660 --> 00:01:33.890
+So everything is such that
+
+00:01:37.280 --> 00:01:41.130
+it's a cow if and only if it moves.
+
+00:01:41.490 --> 00:01:44.550
+All and only cows moo.
+
+
+
+

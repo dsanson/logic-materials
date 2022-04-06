@@ -1,0 +1,89 @@
+WEBVTT
+
+00:00:00.140 --> 00:00:01.090
+
+
+00:00:01.420 --> 00:00:11.410
+We have a derivation, our conclusion is R and are two premises are "P AND Q"
+
+00:00:11.420 --> 00:00:12.980
+
+00:00:13.050 --> 00:00:17.230
+and "IF Q THEN R".
+
+00:00:17.800 --> 00:00:19.460
+
+00:00:19.590 --> 00:00:27.000
+Ultimately we'd like to be able to do MODUS PONENS with line 3. But to do MODUS PONENS with line 3,
+
+00:00:27.040 --> 00:00:37.030
+we need to have Q on a line by itself, and we don't have that right now. 
+
+00:00:37.040 --> 00:00:38.350
+So keep that in mind.
+
+00:00:38.370 --> 00:00:48.360
+Looking at 2, it's a conjunction. Our new rule SIMPLIFICATION says that when you have a conjunction, 
+
+00:00:48.370 --> 00:00:58.360
+you can break it apart into its two pieces. When we do that we end up with both P on a line by itself,
+
+00:00:58.370 --> 00:01:01.140
+and Q on a line by itself.
+
+00:01:01.190 --> 00:01:02.690
+Remember, Q is what we needed
+
+00:01:02.860 --> 00:01:11.300
+to do MODUS PONENS with line 3, so now we can do that...
+
+00:01:11.340 --> 00:01:12.050
+
+
+00:01:12.240 --> 00:01:14.980
+And that gets us R
+
+00:01:15.080 --> 00:01:15.730
+
+
+00:01:17.010 --> 00:01:21.860
+
+00:01:21.910 --> 00:01:23.800
+
+00:01:23.940 --> 00:01:26.120
+
+00:01:26.380 --> 00:01:28.670
+And I have a DIRECT DERIVATION.
+
+00:01:28.720 --> 00:01:29.620
+
+
+00:01:30.000 --> 00:01:31.030
+
+00:01:31.580 --> 00:01:34.440
+Notice that I never used line 4.
+
+00:01:34.470 --> 00:01:39.830
+So it is possible to make this derivation shorter,
+
+00:01:40.750 --> 00:01:48.150
+and to only simplify line 2 only once, to get Q.
+
+00:01:48.290 --> 00:01:53.300
+(mumbles as I notice that I wrote down the wrong line numbers)
+
+00:01:53.610 --> 00:01:56.900
+And that's fine too.
+
+00:01:56.940 --> 00:02:06.930
+There are no extra points for creating the shortest possible derivation! 
+
+00:02:06.940 --> 00:02:10.020
+When you have a conjunction, go ahead and simplify and get both parts,
+
+00:02:10.130 --> 00:02:14.910
+so that you can see what, if anything, you're able to do with them.
+
+00:02:15.270 --> 00:02:16.010
+
+

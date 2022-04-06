@@ -1,0 +1,215 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.240
+Is out there than anything goes
+
+00:00:04.370 --> 00:00:04.970
+So
+
+00:00:05.050 --> 00:00:08.540
+The first thing to notice is that this is
+
+00:00:09.950 --> 00:00:11.070
+The conditional
+
+00:00:12.800 --> 00:00:16.770
+And the antecedents and consequences are both sweeping generalizations
+
+00:00:16.820 --> 00:00:17.340
+So
+
+00:00:18.520 --> 00:00:19.680
+Anything is out there
+
+00:00:19.980 --> 00:00:20.700
+Then
+
+00:00:20.900 --> 00:00:22.050
+Anything Goes
+
+00:00:23.570 --> 00:00:24.120
+Now
+
+00:00:25.200 --> 00:00:26.920
+Here's where things get tricky
+
+00:00:27.740 --> 00:00:29.180
+As the reading says
+
+00:00:29.800 --> 00:00:32.070
+Hennything is kind of a trickster word
+
+00:00:32.710 --> 00:00:35.290
+In some context anything means
+
+00:00:35.310 --> 00:00:36.170
+Everything
+
+00:00:37.070 --> 00:00:38.610
+And in other contexts
+
+00:00:38.810 --> 00:00:40.150
+Anything means
+
+00:00:40.320 --> 00:00:42.450
+Something or at least one thing
+
+00:00:44.230 --> 00:00:44.890
+So
+
+00:00:45.140 --> 00:00:45.810
+Here
+
+00:00:45.950 --> 00:00:48.280
+Where it says anything goes so
+
+00:00:48.430 --> 00:00:51.380
+If anything is out there than anything goes
+
+00:00:52.160 --> 00:00:54.390
+If you think about what's meant here
+
+00:00:55.100 --> 00:00:56.200
+Pretty clear
+
+00:00:56.590 --> 00:00:57.790
+That this means
+
+00:00:58.200 --> 00:00:59.250
+Everything
+
+00:00:59.510 --> 00:01:00.130
+Goes
+
+00:01:02.040 --> 00:01:03.430
+Everything is allowed
+
+00:01:05.820 --> 00:01:06.380
+
+
+00:01:06.400 --> 00:01:07.530
+
+
+00:01:07.640 --> 00:01:08.160
+Which
+
+00:01:08.210 --> 00:01:08.860
+In our
+
+00:01:09.550 --> 00:01:11.430
+Steve abbreviation is
+
+00:01:11.550 --> 00:01:13.070
+Everything is G
+
+00:01:15.610 --> 00:01:18.940
+If anything is out there that doesn't mean if
+
+00:01:19.350 --> 00:01:21.040
+Everything is out there
+
+00:01:21.870 --> 00:01:24.900
+It means that if there's something out there
+
+00:01:25.150 --> 00:01:26.600
+Then everything
+
+00:01:27.300 --> 00:01:27.950
+Goes
+
+00:01:28.620 --> 00:01:30.300
+So here this is
+
+00:01:31.890 --> 00:01:32.620
+Something
+
+00:01:35.210 --> 00:01:37.080
+Is out there is 0/0
+
+00:01:37.250 --> 00:01:37.850
+So
+
+00:01:38.110 --> 00:01:41.590
+If something is older than everything is G
+
+00:01:43.460 --> 00:01:46.800
+If you aren't sure whether that's right
+
+00:01:47.640 --> 00:01:48.260
+
+
+00:01:49.040 --> 00:01:50.470
+I don't have
+
+00:01:50.560 --> 00:01:51.550
+A secret
+
+00:01:51.850 --> 00:01:54.650
+Story to tell about why that's right
+
+00:01:55.770 --> 00:01:56.430
+I just
+
+00:01:56.660 --> 00:01:57.850
+Would ask you
+
+00:01:58.260 --> 00:02:02.130
+To think about what that sentence means in English
+
+00:02:02.570 --> 00:02:04.940
+You're a fluent speaker of English
+
+00:02:05.490 --> 00:02:08.660
+So you have a sense of what that sentence means
+
+00:02:09.300 --> 00:02:09.920
+And
+
+00:02:10.300 --> 00:02:12.540
+As a fluent speaker of English
+
+00:02:12.720 --> 00:02:14.480
+The question for you is
+
+00:02:14.560 --> 00:02:19.160
+Given what that sentence means in English how can we represent it in PL
+
+00:02:20.040 --> 00:02:20.580
+And
+
+00:02:21.210 --> 00:02:26.410
+In order to represented in pl we really have to treat the first anything as meaning something
+
+00:02:27.090 --> 00:02:29.390
+And the second anything is meaning everything
+
+00:02:30.470 --> 00:02:33.280
+So from here it's pretty straightforward
+
+00:02:33.780 --> 00:02:38.140
+Something is out there means that there's at least one thing that is 0
+
+00:02:38.810 --> 00:02:39.410
+And
+
+00:02:39.530 --> 00:02:43.690
+Everything goes means that for all things
+
+00:02:43.900 --> 00:02:44.940
+Lego
+
+00:02:45.450 --> 00:02:46.120
+And we
+
+00:02:46.280 --> 00:02:48.000
+Have our answer to the problem
+
+00:02:48.930 --> 00:02:49.680
+Like I say
+
+00:02:50.040 --> 00:02:50.910
+Anyting
+
+00:02:50.990 --> 00:02:52.870
+Is a very tricky word
+

@@ -1,0 +1,62 @@
+WEBVTT
+
+00:00:00.070 --> 00:00:10.060
+Our derivation has two premises and our conclusion is R, 
+
+00:00:10.070 --> 00:00:11.470
+So I'm going enter my show line for R.
+
+00:00:11.520 --> 00:00:14.530
+The first premise is Q
+
+00:00:14.620 --> 00:00:16.670
+And the second premise says:
+
+00:00:16.790 --> 00:00:23.150
+If either P or Q then R.
+
+00:00:23.370 --> 00:00:24.130
+
+00:00:24.220 --> 00:00:24.810
+
+00:00:25.280 --> 00:00:26.150
+
+00:00:26.210 --> 00:00:31.770
+I need to find a way to do modus ponens with my second promise
+
+00:00:31.800 --> 00:00:38.770
+And the antecedent of this premise is P ∨ Q
+
+00:00:39.070 --> 00:00:42.400
+Now I don't have P ∨ Q
+
+00:00:42.450 --> 00:00:48.110
+If I had P ∨ Q, then I could
+
+00:00:48.200 --> 00:00:56.650
+use that with modus ponens to get R, so if you look at this pattern on these two lines...
+
+00:00:56.770 --> 00:01:06.760
+We have if P ∨ Q then R, and then on this next line it says P ∨ Q is true, so from
+
+00:01:06.770 --> 00:01:13.260
+those two pieces of information, we can infer by modus ponens that R.
+
+00:01:13.290 --> 00:01:23.280
+If only I had P ∨ Q, I could do that! Is there a way that I can get P ∨ Q from what I have?
+
+00:01:23.290 --> 00:01:28.970
+Yes! Look at line 2: I have Q.
+
+00:01:28.990 --> 00:01:32.090
+And our new rule, ADDITION,
+
+00:01:32.240 --> 00:01:42.230
+says that if you have a sentence, you can infer a disjunction, with that sentence as one of the disjuncts.
+
+00:01:42.240 --> 00:01:52.230
+I'm just going to do ADDITION on line 2. This gets me P ∨ Q, and I can do my MP, and I made it to R.
+
+00:01:52.240 --> 00:01:54.600
+So this is a direct derivation. And I'm done!
+

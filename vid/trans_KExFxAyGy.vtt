@@ -1,0 +1,109 @@
+WEBVTT
+
+00:00:02.400 --> 00:00:05.480
+As always, when translating from
+
+00:00:05.540 --> 00:00:08.070
+symbolic logic to canonical English,
+
+00:00:08.250 --> 00:00:15.430
+we work from the outside in, which means that we start by identifying the main connective,
+
+00:00:15.830 --> 00:00:21.110
+and rendering that into canonical English, and then we go from there.
+
+00:00:21.840 --> 00:00:28.910
+So in this case, the main connective is the conjunction, 'and'.
+
+00:00:29.630 --> 00:00:36.750
+And to make this strictly canonical, we actually say,
+
+00:00:37.160 --> 00:00:39.340
+"Both that and that".
+
+00:00:39.780 --> 00:00:46.560
+
+00:00:46.590 --> 00:00:48.150
+
+00:00:48.180 --> 00:00:50.070
+Our next step is to consider
+
+00:00:50.100 --> 00:00:57.550
+what the main connective is of this part. The main connective is 
+
+00:00:57.570 --> 00:01:02.100
+
+the quantifier phrase, so: "Some x is such that".
+
+00:01:02.670 --> 00:01:08.870
+And the main connective of this part is this quantifier phrase,
+
+00:01:09.310 --> 00:01:10.140
+"Every y is such that"
+
+00:01:10.200 --> 00:01:11.480
+
+00:01:12.140 --> 00:01:20.970
+Now we have to replace the predicates:
+
+00:01:21.150 --> 00:01:23.280
+"x is a fox"
+
+00:01:23.340 --> 00:01:24.900
+
+
+00:01:24.930 --> 00:01:27.090
+And,
+
+00:01:27.960 --> 00:01:28.500
+
+
+00:01:28.520 --> 00:01:30.900
+"y is a goose."
+
+00:01:30.940 --> 00:01:33.200
+
+
+00:01:33.570 --> 00:01:34.780
+So here's our sentence:
+
+00:01:35.090 --> 00:01:45.080
+"Both some x is such that x a fox and every y is such that y is a goose"
+
+00:01:45.090 --> 00:01:48.260
+Can we replace our variables with pronouns?
+
+00:01:48.290 --> 00:01:51.190
+
+00:01:51.560 --> 00:01:52.740
+We get:
+
+00:01:53.310 --> 00:01:57.980
+"Both something is such that it is a fox
+
+00:01:58.020 --> 00:02:05.170
+and everything is such that it is a goose."
+
+00:02:05.190 --> 00:02:12.280
+Do you see the problem here with the "it"s?
+
+00:02:12.400 --> 00:02:20.730
+This 'it' goes back to 'something' and the other 'it' should go back to 'everything'.
+
+00:02:20.780 --> 00:02:23.290
+But it's possible somebody might misunderstand,
+and think that it goes back to 'something'.
+
+00:02:23.390 --> 00:02:26.980
+So we've introduced to potential ambiguity.
+
+00:02:27.100 --> 00:02:31.160
+We can go one step further,
+
+00:02:31.690 --> 00:02:34.420
+and eliminate this ambiguity,
+
+00:02:34.470 --> 00:02:42.650
+with the simpler "both something is a fox and everything is a goose"
+
+
