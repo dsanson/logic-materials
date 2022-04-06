@@ -1,0 +1,28 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:09.990
+"Every but that doesn't hop flies":
+
+00:00:04.000 --> 00:00:09.990
+This is a restricted universal generalization.
+The Restriction is too bugs that don't hop.
+
+00:00:10.000 --> 00:00:19.990
+What we say about them is that they fly.
+
+00:00:14.000 --> 00:00:19.990
+So, "Every x is such that if it's a bug that doesn't hop then x flies".
+
+00:00:20.000 --> 00:00:29.990
+We need to unpack "x is a bug that doesn't hop":
+
+00:00:30.000 --> 00:00:39.990
+To say that "x is a bug that doesn't hop" is just to say that x is a bug AND x doesn't hop.
+
+00:00:40.000 --> 00:00:48.290
+'x doesn't hop' is just "not H(x)", so we have:
+
+00:00:48.310 --> 00:00:56.340
+"Every x is such that if it's a bug and it doesn't hop then it flies"
+
+

@@ -1,0 +1,47 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:09.990
+"Every bug other than Charlotte and Barry B. Benson hops."
+This is a restricted Universal generalization.
+
+00:00:10.000 --> 00:00:15.920
+The sweeping generalization would be "Everything hops".
+
+00:00:15.970 --> 00:00:25.960
+The restriction is to bugs other than Charlotte and Barry.
+
+00:00:25.970 --> 00:00:35.960
+Let's put the restriction in parentheses for a moment.
+If this was just everything hops,
+
+00:00:35.970 --> 00:00:45.960
+then it would be 'FOR ALL x H(x)'
+
+00:00:45.970 --> 00:00:55.960
+We restrict universal generalizations by adding an antecedent to a conditional:
+
+00:00:55.970 --> 00:01:05.960
+"FOR ALL x, IF x IS A BUG OTHER THAN CHARLOTTE AND BARRY THEN x HOPS". 
+
+00:01:05.970 --> 00:01:15.960
+What's left is to unpack the restriction: the thing has to be a bug,
+
+00:01:15.970 --> 00:01:25.960
+and it has to be other than Charlotte and Barry.
+
+00:01:25.970 --> 00:01:35.960
+So has to be a bug and be other than Charlotte and Barry.
+
+00:01:35.970 --> 00:01:45.960
+Other than Charlotte is 'not identical to Charlotte (¬x=c)'
+and other than Barry is 'not identical to Barry (¬x=b)'
+
+00:01:45.970 --> 00:01:55.960
+So here is our translation: 'Everything is such that
+
+00:01:55.970 --> 00:02:05.960
+if it's a bug and it's not Charlotte and it's not Barry then it hops'
+
+00:02:05.970 --> 00:02:10.360
+
+
